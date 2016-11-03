@@ -1,4 +1,5 @@
 # telstra_web_sms
 
-this is how to send sms to australian numbers using telstra's API 
+this is how to send sms to australian numbers using telstra's API via a webpage
+uses flask
 
